@@ -9,3 +9,4 @@ List of courses completed:
 ----------------------------------------------------------------------
 Feel free to contact me at emilygfagan@gmail.com   
 Connect with me on [Linkedin](https://www.linkedin.com/in/emilygfagan/)
+Look at my [Tableau](https://public.tableau.com/app/profile/emi.fagan/vizzes) vizzes.
