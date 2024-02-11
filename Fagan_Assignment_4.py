@@ -8,6 +8,7 @@ Grade Scheme:
     F1 Supp --> [45-50)
     F2 --> [40-45)
     F3 --> m < 40
+** The square and round brackets denote closed and open intervals.
 """
 
 xs = [83, 75, 74.9, 70, 69.9, 65, 60, 59.9, 55, 50, 49.9, 45, 44.9, 40, 39.9, 2, 0]
