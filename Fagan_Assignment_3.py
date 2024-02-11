@@ -1,4 +1,7 @@
-# Assignment 3: Write a function which is given the day number, and it returns the day name (a string).
+""" 
+Assignment 3: Write a function which is given the day number, and it returns the day name (a string).
+Assume days of week are numbered: Sunday = 0, Monday = 1, Tuesday = 2, Wednesday = 3, Thursday = 4, Friday = 5, Saturday = 6.
+"""
 
 user_str = input("Enter a number from 0-6: ")
 
