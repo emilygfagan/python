@@ -2,7 +2,7 @@
 
 user_str = input("Enter a number from 0-7: ")
 
-user_int = int(user_str)
+user_int = int(user_str) # type casting user input to integer for the function to run
 
 def day_of_week(user_int):
     if user_int == 0:
