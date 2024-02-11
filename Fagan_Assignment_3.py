@@ -1,6 +1,6 @@
 # Assignment 3: Write a function which is given the day number, and it returns the day name (a string).
 
-user_str = input("Enter a number from 0-7: ")
+user_str = input("Enter a number from 0-6: ")
 
 user_int = int(user_str) # type casting user input to integer for the function to run
 
